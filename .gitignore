@@ -1,5 +1,8 @@
+# Any design files I end up using
 *.sketch
 *.fig
+
+.vscode/
 
 # Logs
 logs
