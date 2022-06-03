@@ -24,6 +24,8 @@
     }
   },
   "dependencies": {
+    "@fontsource/libre-baskerville": "^4.5.8",
+    "@fontsource/raleway": "^4.5.8",
     "babel-plugin-styled-components": "^2.0.7",
     "dotenv": "^16.0.0",
     "gatsby": "^4.12.1",
