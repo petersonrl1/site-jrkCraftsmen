@@ -8,10 +8,13 @@ const Typography = createGlobalStyle`
 h1, h2 {
   font-family: "Raleway";
   font-weight: 600;
+  margin: 0;
 }
 
-p {
+p, li {
     font-family: "Libre Baskerville";
+    letter-spacing: 0.2px;
+
 }
 `;
 
